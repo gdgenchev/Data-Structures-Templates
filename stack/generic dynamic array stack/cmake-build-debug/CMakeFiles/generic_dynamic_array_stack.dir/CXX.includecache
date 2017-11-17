@@ -1,0 +1,92 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/georg/Desktop/Template Structures/stack/doctest.h
+ciso646
+-
+iosfwd
+-
+iosfwd
+-
+cstddef
+-
+type_traits
+-
+doctest_fwd.h
+C:/Users/georg/Desktop/Template Structures/stack/doctest_fwd.h
+ctime
+-
+cmath
+-
+math.h
+-
+new
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+limits
+-
+utility
+-
+sstream
+-
+algorithm
+-
+iomanip
+-
+vector
+-
+set
+-
+exception
+-
+stdexcept
+-
+csignal
+-
+cfloat
+-
+stdint.h
+-
+unistd.h
+-
+AfxWin.h
+-
+windows.h
+-
+io.h
+-
+sys/time.h
+-
+sys/types.h
+-
+unistd.h
+-
+sys/sysctl.h
+-
+
+C:/Users/georg/Desktop/Template Structures/stack/generic dynamic array stack/array_stack.cpp
+../stack.h
+C:/Users/georg/Desktop/Template Structures/stack/stack.h
+iostream
+-
+
+C:/Users/georg/Desktop/Template Structures/stack/generic dynamic array stack/test.cpp
+../doctest.h
+C:/Users/georg/Desktop/Template Structures/stack/doctest.h
+array_stack.cpp
+C:/Users/georg/Desktop/Template Structures/stack/generic dynamic array stack/array_stack.cpp
+
+C:/Users/georg/Desktop/Template Structures/stack/stack.h
+iostream
+-
+

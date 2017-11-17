@@ -1,0 +1,3 @@
+C:/Users/georg/Desktop/Template Structures/queue/array_queue/cmake-build-debug/CMakeFiles/array_queue.dir
+C:/Users/georg/Desktop/Template Structures/queue/array_queue/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/georg/Desktop/Template Structures/queue/array_queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/georg/Desktop/Template Structures/stack/linked  stack/cmake-build-debug/CMakeFiles/linked__stack.dir
+C:/Users/georg/Desktop/Template Structures/stack/linked  stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/georg/Desktop/Template Structures/stack/linked  stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
